@@ -1,5 +1,5 @@
 package com.interpolation;
-
+//Daniel Mejia
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
